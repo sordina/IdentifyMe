@@ -1,3 +1,5 @@
+{-# Language OverloadedStrings, TemplateHaskell #-}
+
 module Handler.Root where
 
 import Import

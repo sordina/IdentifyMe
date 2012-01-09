@@ -1,4 +1,6 @@
 {-# OPTIONS_GHC -fno-warn-orphans #-}
+{-# Language CPP, TemplateHaskell, MultiParamTypeClasses #-}
+
 module Application
     ( withIdentifyMe
     , withDevelAppPort

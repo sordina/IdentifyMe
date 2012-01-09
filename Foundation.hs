@@ -1,3 +1,5 @@
+{-# Language TemplateHaskell, OverloadedStrings, MultiParamTypeClasses, TypeFamilies #-}
+
 module Foundation
     ( IdentifyMe (..)
     , IdentifyMeRoute (..)
