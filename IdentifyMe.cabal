@@ -77,3 +77,4 @@ executable         IdentifyMe
                  , wai                           >= 0.4.2      && < 0.5
                  , transformers                  >= 0.2        && < 0.3
                  , monad-control                 >= 0.3        && < 0.4
+                 , http-conduit
